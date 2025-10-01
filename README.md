@@ -51,7 +51,7 @@ To replicate the analysis:
 2. Clean and preprocess the data.
 3. Create visualizations based on churn metrics.
 4. Interpret insights and suggest retention strategies.
-
+---![report final 1](https://github.com/user-attachments/assets/02d50b01-c1e1-4c55-94ab-2d1519a8a4d8)
 ## 📌 Future Enhancements
 - Predictive churn modeling using machine learning
 - Customer segmentation for targeted retention
